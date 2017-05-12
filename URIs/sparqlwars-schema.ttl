@@ -25,7 +25,7 @@
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#>.
 @prefix xsd:   <http://www.w3.org/2001/XMLSchema#>.
 @prefix reg: <http://purl.org/metainfo/terms/registry#> .
-@prefix starwars: <<https://sparql.crssnky.xyz/sparqlwars/URIs/sparqlwars-schema.ttl#>
+@prefix starwars: <https://sparql.crssnky.xyz/sparqlwars/URIs/sparqlwars-schema.ttl#>
 
 <https://sparql.crssnky.xyz/sparqlwars/URIs/sparqlwars-schema.ttl#>
         a                owl:Ontology ;
@@ -36,10 +36,10 @@
         dcterms:issued   "2017-05-15" .
 		
 # ここからはクラス
-starwars:Droid		a	rdfs:Class ;
-	rdfs:comment		"ドロイドを表すクラス" ;
-	rdfs:label			"ドロイド"@ja ;
-	rdfs:label			"Droid"@en .
+starwars:Droid			a	rdfs:Class ;
+	rdfs:comment			"ドロイドを表すクラス" ;
+	rdfs:label				"ドロイド"@ja ;
+	rdfs:label				"Droid"@en .
 
 	
 # ここからはプロパティ
