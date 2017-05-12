@@ -1,0 +1,42 @@
+<rdf:RDF
+    xmlns:jrrk="http://purl.org/jrrk#"
+    xmlns:ic="http://imi.ipa.go.jp/ns/core/rdf#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:sac="http://statdb.nstac.go.jp/lod/sac/C"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:pc="http://purl.org/procurement/public-contracts#"
+    xmlns:odp="http://odp.jig.jp/odp/1.0#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gr="http://purl.org/goodrelations/v1#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:qb="http://purl.org/linked-data/cube#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:georss="http://www.georss.org/georss"
+    xmlns:cal="http://www.w3.org/2002/12/cal/icaltzd#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    xmlns:starwars="https://sparql.crssnky.xyz/sparqlwars/URIs/sparqlwars-schema.ttl#"
+    >
+
+  <rdf:Description rdf:about="0-0-0">
+    <starwars:Image rdf:resource="https://vignette2.wikia.nocookie.net/starwars/images/3/35/000-Doctor_Aphra_1-Rod_Reis.png/revision/latest"/>
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/0-0-0"/>
+    <starwars:Name>0-0-0</starwars:Name>
+    <starwars:Manufacturer>Cybot Galactica</starwars:Manufacturer>
+    <starwars:Class>Protocol droid</starwars:Class>
+    <starwars:Gender>Masculine programming</starwars:Gender>
+    <starwars:SensorColor>Red</starwars:SensorColor>
+    <starwars:PlatingColor>Dark silver</starwars:PlatingColor>
+    <starwars:Equipment>Triple-Zero personality matrix</starwars:Equipment>
+    <starwars:Affiliation>Galactic Empire</starwars:Affiliation>
+    <starwars:Affiliation>Imperial Military</starwars:Affiliation>
+    <starwars:Affiliation>Imperial Intelligence</starwars:Affiliation>
+    <starwars:Affiliation>Advanced Weapons Research</starwars:Affiliation>
+    <starwars:Affiliation>Tarkin Initiative</starwars:Affiliation>
+    <starwars:Affiliation>Sith Order</starwars:Affiliation>
+  </rdf:Description>
+</rdf:RDF>
