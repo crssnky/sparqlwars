@@ -1,0 +1,94 @@
+@prefix bibo:  <http://purl.org/ontology/bibo/>.
+@prefix cal:   <http://www.w3.org/2002/12/cal/icaltzd#>.
+@prefix cc:    <http://creativecommons.org/ns#>.
+@prefix dc:    <http://purl.org/dc/elements/1.1/>.
+@prefix dct:   <http://purl.org/dc/terms/>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix foaf:  <http://xmlns.com/foaf/0.1/>.
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#>.
+@prefix georss: <http://www.georss.org/georss>.
+@prefix gr:    <http://purl.org/goodrelations/v1#>.
+@prefix ic:    <http://imi.ipa.go.jp/ns/core/rdf#>.
+@prefix imas:   <https://crssnky.xyz/URIs/imas-schema#>.
+@prefix jrrk:  <http://purl.org/jrrk#>.
+@prefix owl:   <http://www.w3.org/2002/07/owl#>.
+@prefix pc:    <http://purl.org/procurement/public-contracts#>.
+@prefix qb:    <http://purl.org/linked-data/cube#>.
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix sac:   <http://statdb.nstac.go.jp/lod/sac/C>.
+@prefix sacs:  <http://statdb.nstac.go.jp/lod/terms/sacs#>.
+@prefix schema: <http://schema.org/>.
+@prefix sdmx-concept: <http://purl.org/linked-data/sdmx/2009/concept#>.
+@prefix sdmx-dimension: <http://purl.org/linked-data/sdmx/2009/dimension#>.
+@prefix sdmx-measure: <http://purl.org/linked-data/sdmx/2009/measure#>.
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#>.
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#>.
+@prefix reg: <http://purl.org/metainfo/terms/registry#> .
+@prefix starwars: <<https://sparql.crssnky.xyz/sparqlwars/URIs/sparqlwars-schema.ttl#>
+
+<https://sparql.crssnky.xyz/sparqlwars/URIs/sparqlwars-schema.ttl#>
+        a                owl:Ontology ;
+        rdfs:label       "sparqlwars-schema語彙"@ja ;
+        dcterms:creator  [ foaf:homepage  <https://sparql.crssnky.xyz/starwas/> ;
+                           foaf:name      "crssnky"@ja
+                         ] ;
+        dcterms:issued   "2017-05-15" .
+		
+# ここからはクラス
+starwars:Droid		a	rdfs:Class ;
+	rdfs:comment		"ドロイドを表すクラス" ;
+	rdfs:label			"ドロイド"@ja ;
+	rdfs:label			"Droid"@en .
+
+	
+# ここからはプロパティ
+starwars:Wookieepedia	a	rdf:Property ;
+	rdfs:comment			"WookieePediaリンクを表すプロパティ" ;
+	rdfs:label				"WookieePediaリンク"@ja ;
+	rdfs:label				"WookieePediaLink"@en .
+	
+starwars:Name			a	rdf:Property ;
+	rdfs:comment			"名前を表すプロパティ" ;
+	rdfs:label				"名前"@ja ;
+	rdfs:label				"Name"@en .
+
+starwars:Image			a	rdf:Property ;
+	rdfs:comment			"画像を表すプロパティ" ;
+	rdfs:label				"画像"@ja ;
+	rdfs:label				"Image"@en .
+
+starwars:Class			a	rdf:Property ;
+	rdfs:comment			"種別を表すプロパティ" ;
+	rdfs:label				"種別"@ja ;
+	rdfs:label				"Class"@en .
+
+starwars:Manufacturer	a	rdf:Property ;
+	rdfs:comment			"製造を表すプロパティ" ;
+	rdfs:label				"製造"@ja ;
+	rdfs:label				"Manufacturer"@en .
+	
+starwars:Gender			a	rdf:Property ;
+	rdfs:comment			"性別を表すプロパティ" ;
+	rdfs:label				"性別"@ja ;
+	rdfs:label				"Gender"@en .
+	
+starwars:SensorColor	a	rdf:Property ;
+	rdfs:comment			"センサー色を表すプロパティ" ;
+	rdfs:label				"センサー色"@ja ;
+	rdfs:label				"Sensor color"@en .
+	
+starwars:PlatingColor	a	rdf:Property ;
+	rdfs:comment			"ボディ色を表すプロパティ" ;
+	rdfs:label				"ボディ色"@ja ;
+	rdfs:label				"Plating color"@en .
+	
+starwars:Equipment		a	rdf:Property ;
+	rdfs:comment			"装備を表すプロパティ" ;
+	rdfs:label				"装備"@ja ;
+	rdfs:label				"Equipment"@en .
+
+starwars:Affiliation	a	rdf:Property ;
+	rdfs:comment			"所属を表すプロパティ" ;
+	rdfs:label				"所属"@ja ;
+	rdfs:label				"Affiliation"@en .
