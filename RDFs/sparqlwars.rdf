@@ -39,4 +39,20 @@
     <starwars:Affiliation>Tarkin Initiative</starwars:Affiliation>
     <starwars:Affiliation>Sith Order</starwars:Affiliation>
   </rdf:Description>
+
+  <rdf:Description rdf:about="%22A%22_Squad">
+    <starwars:Image rdf:resource="https://vignette4.wikia.nocookie.net/starwars/images/5/58/ASquad-RV.jpg/revision/latest"/>
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/%22A%22_Squad"/>
+    <starwars:Name>"A" Squad</starwars:Name>
+    <starwars:Leader>Marshal Commander CC-2224</starwars:Leader>
+    <starwars:Leader>Clone Lieutenant</starwars:Leader>
+    <starwars:Members>CT-8867</starwars:Members>
+    <starwars:Members>CT-8868</starwars:Members>
+    <starwars:Members>CT-8869</starwars:Members>
+    <starwars:DateFounded>Prior to 20 BBY</starwars:DateFounded>
+    <starwars:Era>Rise of the Empire era</starwars:Era>
+    <starwars:Affiliation>Galactic Republic</starwars:Affiliation>
+    <starwars:Affiliation>Grand Army of the Republic</starwars:Affiliation>
+    <starwars:Affiliation>212th Attack Battalion</starwars:Affiliation>
+  </rdf:Description>
 </rdf:RDF>
