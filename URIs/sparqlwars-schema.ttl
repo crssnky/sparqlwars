@@ -41,6 +41,11 @@ starwars:Droid			a	rdfs:Class ;
 	rdfs:label				"ドロイド"@ja ;
 	rdfs:label				"Droid"@en .
 
+starwars:Squad			a	rdfs:Class ;
+	rdfs:comment			"分隊を表すクラス" ;
+	rdfs:label				"分隊"@ja ;
+	rdfs:label				"Squad"@en .
+
 	
 # ここからはプロパティ
 starwars:Wookieepedia	a	rdf:Property ;
@@ -92,3 +97,23 @@ starwars:Affiliation	a	rdf:Property ;
 	rdfs:comment			"所属を表すプロパティ" ;
 	rdfs:label				"所属"@ja ;
 	rdfs:label				"Affiliation"@en .
+
+starwars:Leader			a	rdf:Property ;
+	rdfs:comment			"リーダーを表すプロパティ" ;
+	rdfs:label				"リーダー"@ja ;
+	rdfs:label				"Leader"@en .
+
+starwars:Members		a	rdf:Property ;
+	rdfs:comment			"メンバーを表すプロパティ" ;
+	rdfs:label				"メンバー"@ja ;
+	rdfs:label				"Members"@en .
+
+starwars:DateFounded	a	rdf:Property ;
+	rdfs:comment			"結成日を表すプロパティ" ;
+	rdfs:label				"結成日"@ja ;
+	rdfs:label				"DateFounded"@en .
+
+starwars:Era			a	rdf:Property ;
+	rdfs:comment			"時代を表すプロパティ" ;
+	rdfs:label				"時代"@ja ;
+	rdfs:label				"Era"@en .
