@@ -46,6 +46,11 @@ starwars:Squad			a	rdfs:Class ;
 	rdfs:label				"分隊"@ja ;
 	rdfs:label				"Squad"@en .
 
+starwars:Equipment			a	rdfs:Class ;
+	rdfs:comment			"装備を表すクラス" ;
+	rdfs:label				"装備"@ja ;
+	rdfs:label				"Equipment"@en .
+
 	
 # ここからはプロパティ
 starwars:Wookieepedia	a	rdf:Property ;
@@ -117,3 +122,18 @@ starwars:Era			a	rdf:Property ;
 	rdfs:comment			"時代を表すプロパティ" ;
 	rdfs:label				"時代"@ja ;
 	rdfs:label				"Era"@en .
+
+starwars:Type			a	rdf:Property ;
+	rdfs:comment			"タイプを表すプロパティ" ;
+	rdfs:label				"タイプ"@ja ;
+	rdfs:label				"Type"@en .
+
+starwars:Owners			a	rdf:Property ;
+	rdfs:comment			"所有者を表すプロパティ" ;
+	rdfs:label				"所有者"@ja ;
+	rdfs:label				"Owners"@en .
+
+starwars:Purpose		a	rdf:Property ;
+	rdfs:comment			"目的を表すプロパティ" ;
+	rdfs:label				"目的"@ja ;
+	rdfs:label				"Purpose"@en .
