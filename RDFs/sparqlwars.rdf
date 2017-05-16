@@ -48,4 +48,15 @@
     <starwars:Owners>Rey</starwars:Owners>
     <starwars:Purpose>Scavenging</starwars:Purpose>
   </rdf:Description>
+
+  <rdf:Description rdf:about="%22Huttsplitter%22_blaster_rifle">
+    <starwars:Image rdf:resource="https://vignette3.wikia.nocookie.net/starwars/images/0/0b/Huttsplitter_blaster.png/revision/latest"/>
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/%22Huttsplitter%22_blaster_rifle"/>
+    <starwars:Name>"Huttsplitter" blaster rifle</starwars:Name>
+    <starwars:Type>Blaster rifle</starwars:Type>
+    <starwars:Owners>Tasu Leech</starwars:Owners>
+    <starwars:Material>Gundark bone</starwars:Material>
+    <starwars:Material>Narglatch tusk</starwars:Material>
+    <starwars:Affiliation>Kanjiklub</starwars:Affiliation>
+  </rdf:Description>
 </rdf:RDF>
