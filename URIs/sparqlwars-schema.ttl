@@ -51,6 +51,11 @@ starwars:Equipment			a	rdfs:Class ;
 	rdfs:label				"装備"@ja ;
 	rdfs:label				"Equipment"@en .
 
+starwars:Person			a	rdfs:Class ;
+	rdfs:comment			"個人を表すクラス" ;
+	rdfs:label				"個人"@ja ;
+	rdfs:label				"Person"@en .
+
 	
 # ここからはプロパティ
 starwars:Wookieepedia	a	rdf:Property ;
