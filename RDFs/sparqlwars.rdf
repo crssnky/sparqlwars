@@ -59,4 +59,15 @@
     <starwars:Material>Narglatch tusk</starwars:Material>
     <starwars:Affiliation>Kanjiklub</starwars:Affiliation>
   </rdf:Description>
+
+  <rdf:Description rdf:about="%22Iron%22_Liana">
+    <starwars:Image rdf:resource="https://vignette2.wikia.nocookie.net/starwars/images/c/ca/Liana_Kor.png/revision/latest"/>
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/%22Iron%22_Liana"/>
+    <starwars:Name>Liana Kor</starwars:Name>
+    <starwars:Homeworld>Nar Shaddaa</starwars:Homeworld>
+    <starwars:Species>Twi'lek</starwars:Species>
+    <starwars:Gender>Female</starwars:Gender>
+    <starwars:EyeColor>Purple</starwars:EyeColor>
+    <starwars:SkinColor>Purple</starwars:SkinColor>
+  </rdf:Description>
 </rdf:RDF>
