@@ -137,3 +137,23 @@ starwars:Purpose		a	rdf:Property ;
 	rdfs:comment			"目的を表すプロパティ" ;
 	rdfs:label				"目的"@ja ;
 	rdfs:label				"Purpose"@en .
+
+starwars:Homeworld		a	rdf:Property ;
+	rdfs:comment			"主な所在地を表すプロパティ" ;
+	rdfs:label				"主な所在地"@ja ;
+	rdfs:label				"Homeworld"@en .
+
+starwars:Species		a	rdf:Property ;
+	rdfs:comment			"種族を表すプロパティ" ;
+	rdfs:label				"種族"@ja ;
+	rdfs:label				"Species"@en .
+
+starwars:EyeColor		a	rdf:Property ;
+	rdfs:comment			"目の色を表すプロパティ" ;
+	rdfs:label				"目の色"@ja ;
+	rdfs:label				"Eye color"@en .
+
+starwars:SkinColor		a	rdf:Property ;
+	rdfs:comment			"肌の色を表すプロパティ" ;
+	rdfs:label				"肌の色"@ja ;
+	rdfs:label				"Skin color"@en .
