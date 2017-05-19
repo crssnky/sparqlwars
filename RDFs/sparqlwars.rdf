@@ -70,4 +70,12 @@
     <starwars:EyeColor>Purple</starwars:EyeColor>
     <starwars:SkinColor>Purple</starwars:SkinColor>
   </rdf:Description>
+
+  <rdf:Description rdf:about="%22Multi_Imager%22_dedicated_energy_receptor">
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/%22Multi_Imager%22_dedicated_energy_receptor"/>
+    <starwars:Name>"Multi Imager" dedicated energy receptor</starwars:Name>
+    <starwars:Manufacturer>Melihat</starwars:Manufacturer>
+    <starwars:Affiliation>Alliance to Restore the Republic</starwars:Affiliation>
+    <starwars:Affiliation>New Republic</starwars:Affiliation>
+  </rdf:Description>
 </rdf:RDF>
