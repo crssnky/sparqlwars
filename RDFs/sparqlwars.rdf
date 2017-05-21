@@ -78,4 +78,19 @@
     <starwars:Affiliation>Alliance to Restore the Republic</starwars:Affiliation>
     <starwars:Affiliation>New Republic</starwars:Affiliation>
   </rdf:Description>
+
+  <rdf:Description rdf:about="%22Wasp%22_blaster_rifle">
+    <starwars:Image rdf:resource="https://vignette2.wikia.nocookie.net/starwars/images/6/6e/Wasp_blaster_rifle-SW_TFA.png/revision/latest"/>
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/%22Wasp%22_blaster_rifle"/>
+    <starwars:Name>"Wasp" blaster rifle</starwars:Name>
+    <starwars:Type>Blaster rifle</starwars:Type>
+    <starwars:Owners>Razoo Qin-Fee</starwars:Owners>
+    <starwars:Size>Two-</starwars:Size>
+    <starwars:Size>handed</starwars:Size>
+    <starwars:Size> weapon</starwars:Size>
+    <starwars:Color>Black</starwars:Color>
+    <starwars:Color> and yellow</starwars:Color>
+    <starwars:Purpose>Ranged combat</starwars:Purpose>
+    <starwars:Affiliation>Kanjiklub</starwars:Affiliation>
+  </rdf:Description>
 </rdf:RDF>
