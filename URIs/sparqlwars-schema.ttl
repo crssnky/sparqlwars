@@ -166,7 +166,7 @@ starwars:SkinColor		a	rdf:Property ;
 starwars:Size			a	rdf:Property ;
 	rdfs:comment			"サイズプロパティ" ;
 	rdfs:label				"サイズ"@ja ;
-	rdfs:label				"Size color"@en .
+	rdfs:label				"Size"@en .
 
 starwars:Color			a	rdf:Property ;
 	rdfs:comment			"色プロパティ" ;
