@@ -93,4 +93,13 @@
     <starwars:Purpose>Ranged combat</starwars:Purpose>
     <starwars:Affiliation>Kanjiklub</starwars:Affiliation>
   </rdf:Description>
+
+  <rdf:Description rdf:about="%22Wessex-head%22_bit-driver">
+    <starwars:Image rdf:resource="https://vignette1.wikia.nocookie.net/starwars/images/6/6c/Wessex_head_bit_driver.png/revision/latest"/>
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/%22Wessex-head%22_bit-driver"/>
+    <starwars:Name>"Wessex-head" bit-driver</starwars:Name>
+    <starwars:Type>Pilex bit driver</starwars:Type>
+    <starwars:Owners>Rey</starwars:Owners>
+    <starwars:Purpose>Scavenging</starwars:Purpose>
+  </rdf:Description>
 </rdf:RDF>
