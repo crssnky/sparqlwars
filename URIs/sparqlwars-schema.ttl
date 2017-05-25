@@ -164,11 +164,31 @@ starwars:SkinColor		a	rdf:Property ;
 	rdfs:label				"Skin color"@en .
 
 starwars:Size			a	rdf:Property ;
-	rdfs:comment			"サイズプロパティ" ;
+	rdfs:comment			"サイズを表すプロパティ" ;
 	rdfs:label				"サイズ"@ja ;
 	rdfs:label				"Size"@en .
 
 starwars:Color			a	rdf:Property ;
-	rdfs:comment			"色プロパティ" ;
+	rdfs:comment			"色を表すプロパティ" ;
 	rdfs:label				"色"@ja ;
 	rdfs:label				"Color"@en .
+
+starwars:Model			a	rdf:Property ;
+	rdfs:comment			"を表す" ;
+	rdfs:label				"モデル"@ja ;
+	rdfs:label				"Model"@en .
+
+starwars:Length			a	rdf:Property ;
+	rdfs:comment			"長さを表すプロパティ" ;
+	rdfs:label				"長さ"@ja ;
+	rdfs:label				"Length"@en .
+
+starwars:Height_Depth	a	rdf:Property ;
+	rdfs:comment			"幅、奥行きを表すプロパティ" ;
+	rdfs:label				"幅、奥行き"@ja ;
+	rdfs:label				"Height/depth"@en .
+
+starwars:Armament		a	rdf:Property ;
+	rdfs:comment			"武装を表すプロパティ" ;
+	rdfs:label				"武装"@ja ;
+	rdfs:label				"Armament"@en .
