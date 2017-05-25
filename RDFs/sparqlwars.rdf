@@ -102,4 +102,23 @@
     <starwars:Owners>Rey</starwars:Owners>
     <starwars:Purpose>Scavenging</starwars:Purpose>
   </rdf:Description>
+
+  <rdf:Description rdf:about="%27%27Nu%27%27-class_transport">
+    <starwars:Image rdf:resource="https://vignette4.wikia.nocookie.net/starwars/images/c/c0/Republicattackshuttle.jpg/revision/latest"/>
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/%27%27Nu%27%27-class_transport"/>
+    <starwars:Name>Nu-class transport</starwars:Name>
+    <starwars:Model>Nu-class transport</starwars:Model>
+    <starwars:Class>Multi-purpose transport</starwars:Class>
+    <starwars:Length>18.9 meters</starwars:Length>
+    <starwars:Height_Depth>24.34 meters</starwars:Height_Depth>
+    <starwars:Armament>Laser cannons</starwars:Armament>
+    <starwars:Affiliation>Galactic Republic</starwars:Affiliation>
+    <starwars:Affiliation>Grand Army of the Republic</starwars:Affiliation>
+    <starwars:Affiliation>Republic Navy</starwars:Affiliation>
+    <starwars:Affiliation>Galactic Empire</starwars:Affiliation>
+    <starwars:Affiliation>Imperial Military</starwars:Affiliation>
+    <starwars:Affiliation>Imperial Navy</starwars:Affiliation>
+    <starwars:Affiliation>The rebellion</starwars:Affiliation>
+    <starwars:Affiliation>Free Ryloth movement</starwars:Affiliation>
+  </rdf:Description>
 </rdf:RDF>
