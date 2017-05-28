@@ -121,4 +121,15 @@
     <starwars:Affiliation>The rebellion</starwars:Affiliation>
     <starwars:Affiliation>Free Ryloth movement</starwars:Affiliation>
   </rdf:Description>
+
+  <rdf:Description rdf:about="03-R_cryogenic_power_cell">
+    <starwars:Image rdf:resource=""/>
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/03-R_cryogenic_power_cell"/>
+    <starwars:Name>03-R cryogenic power cell</starwars:Name>
+    <starwars:Manufacturer>Thiodyne</starwars:Manufacturer>
+    <starwars:Model>03-R</starwars:Model>
+    <starwars:Type>Power cell</starwars:Type>
+    <starwars:Affiliation>Alliance to Restore the Republic</starwars:Affiliation>
+    <starwars:Affiliation>New Republic</starwars:Affiliation>
+  </rdf:Description>
 </rdf:RDF>
