@@ -132,4 +132,15 @@
     <starwars:Affiliation>Alliance to Restore the Republic</starwars:Affiliation>
     <starwars:Affiliation>New Republic</starwars:Affiliation>
   </rdf:Description>
+
+  <rdf:Description rdf:about="04-Z_cryogenic_power_generator">
+    <starwars:Image rdf:resource="https://vignette4.wikia.nocookie.net/starwars/images/0/0e/04-Z_cryogenic_power_generator_ader_down.png/revision/latest"/>
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/04-Z_cryogenic_power_generator"/>
+    <starwars:Name>04-Z cryogenic power generator</starwars:Name>
+    <starwars:Manufacturer>Novaldex</starwars:Manufacturer>
+    <starwars:Model>04-Z</starwars:Model>
+    <starwars:Type>Power generator</starwars:Type>
+    <starwars:Affiliation>Alliance to Restore the Republic</starwars:Affiliation>
+    <starwars:Affiliation>New Republic</starwars:Affiliation>
+  </rdf:Description>
 </rdf:RDF>
