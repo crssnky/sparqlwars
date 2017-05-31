@@ -143,4 +143,13 @@
     <starwars:Affiliation>Alliance to Restore the Republic</starwars:Affiliation>
     <starwars:Affiliation>New Republic</starwars:Affiliation>
   </rdf:Description>
+
+  <rdf:Description rdf:about="07_tractor_beam_projector">
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/07_tractor_beam_projector"/>
+    <starwars:Name>07 tractor beam projector</starwars:Name>
+    <starwars:Manufacturer>Phylon</starwars:Manufacturer>
+    <starwars:Model>07</starwars:Model>
+    <starwars:Type>Tractor beam projector</starwars:Type>
+    <starwars:Affiliation>Galactic Empire</starwars:Affiliation>
+  </rdf:Description>
 </rdf:RDF>
