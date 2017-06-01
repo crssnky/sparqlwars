@@ -152,4 +152,34 @@
     <starwars:Type>Tractor beam projector</starwars:Type>
     <starwars:Affiliation>Galactic Empire</starwars:Affiliation>
   </rdf:Description>
+
+  <rdf:Description rdf:about="0_ABY">
+    <starwars:Image rdf:resource="https://vignette1.wikia.nocookie.net/starwars/images/b/ba/Medal_ceremony_Yavin_4.PNG/revision/latest"/>
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/0_ABY"/>
+    <starwars:Name>0 ABY</starwars:Name>
+    <starwars:Conflicts>Ryloth Insurgency</starwars:Conflicts>
+    <starwars:Conflicts>Galactic Civil War</starwars:Conflicts>
+    <starwars:Chancellor>Mon Mothma</starwars:Chancellor>
+    <starwars:Emperor>Sheev Palpatine</starwars:Emperor>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="0_BBY">
+    <starwars:Image rdf:resource="https://vignette1.wikia.nocookie.net/starwars/images/b/bd/Battle_of_Yavin.png/revision/latest"/>
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/0_BBY"/>
+    <starwars:Name>0 BBY</starwars:Name>
+    <starwars:Conflicts>Campaigns of Saw Gerrera's Partisans</starwars:Conflicts>
+    <starwars:Conflicts>Jedha insurgency</starwars:Conflicts>
+    <starwars:Conflicts>Early rebellion against the Galactic Empire</starwars:Conflicts>
+    <starwars:Conflicts>Operation Fracture</starwars:Conflicts>
+    <starwars:Conflicts>Galactic Civil War</starwars:Conflicts>
+    <starwars:Conflicts>Ryloth Insurgency</starwars:Conflicts>
+    <starwars:Chancellor>Mon Mothma</starwars:Chancellor>
+    <starwars:Emperor>Sheev Palpatine</starwars:Emperor>
+    <starwars:Events>Battle of Scarif</starwars:Events>
+    <starwars:Events>Secret mission to Tatooine</starwars:Events>
+    <starwars:Events>Dissolution of the Imperial Senate</starwars:Events>
+    <starwars:Events>The Disaster</starwars:Events>
+    <starwars:Events>Rescue of Princess Leia</starwars:Events>
+    <starwars:Events>Battle of Yavin</starwars:Events>
+  </rdf:Description>
 </rdf:RDF>
