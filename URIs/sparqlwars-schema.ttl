@@ -192,3 +192,18 @@ starwars:Armament		a	rdf:Property ;
 	rdfs:comment			"武装を表すプロパティ" ;
 	rdfs:label				"武装"@ja ;
 	rdfs:label				"Armament"@en .
+
+starwars:Conflicts		a	rdf:Property ;
+	rdfs:comment			"戦いを表すプロパティ" ;
+	rdfs:label				"戦い"@ja ;
+	rdfs:label				"Conflicts"@en .
+
+starwars:Chancellor		a	rdf:Property ;
+	rdfs:comment			"総長を表すプロパティ" ;
+	rdfs:label				"総長"@ja ;
+	rdfs:label				"Chancellor"@en .
+
+starwars:Emperor		a	rdf:Property ;
+	rdfs:comment			"皇帝を表すプロパティ" ;
+	rdfs:label				"皇帝"@ja ;
+	rdfs:label				"Emperor"@en .
