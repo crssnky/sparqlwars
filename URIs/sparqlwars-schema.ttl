@@ -207,3 +207,8 @@ starwars:Emperor		a	rdf:Property ;
 	rdfs:comment			"皇帝を表すプロパティ" ;
 	rdfs:label				"皇帝"@ja ;
 	rdfs:label				"Emperor"@en .
+
+starwars:Events			a	rdf:Property ;
+	rdfs:comment			"イベントを表すプロパティ" ;
+	rdfs:label				"イベント"@ja ;
+	rdfs:label				"Events"@en .
