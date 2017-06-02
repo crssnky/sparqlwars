@@ -182,4 +182,15 @@
     <starwars:Events>Rescue of Princess Leia</starwars:Events>
     <starwars:Events>Battle of Yavin</starwars:Events>
   </rdf:Description>
+
+  <rdf:Description rdf:about="1.4_FD_P-Tower">
+    <starwars:Image rdf:resource="https://vignette1.wikia.nocookie.net/starwars/images/e/e3/Antivehix-artillery_negwt.jpg/revision/latest"/>
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/1.4_FD_P-Tower"/>
+    <starwars:Name>1.4 FD P-Tower</starwars:Name>
+    <starwars:Manufacturer>Atgar SpaceDefense Corporation</starwars:Manufacturer>
+    <starwars:Model>1.4 FD</starwars:Model>
+    <starwars:Type>Light anti-vehicle laser cannon</starwars:Type>
+    <starwars:Height>2.80 meters</starwars:Height>
+    <starwars:Affiliation>Alliance to Restore the Republic</starwars:Affiliation>
+  </rdf:Description>
 </rdf:RDF>
