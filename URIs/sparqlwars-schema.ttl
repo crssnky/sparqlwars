@@ -183,6 +183,11 @@ starwars:Length			a	rdf:Property ;
 	rdfs:label				"長さ"@ja ;
 	rdfs:label				"Length"@en .
 
+starwars:Height			a	rdf:Property ;
+	rdfs:comment			"高さを表すプロパティ" ;
+	rdfs:label				"高さ"@ja ;
+	rdfs:label				"Height"@en .
+
 starwars:Height_Depth	a	rdf:Property ;
 	rdfs:comment			"幅、奥行きを表すプロパティ" ;
 	rdfs:label				"幅、奥行き"@ja ;
