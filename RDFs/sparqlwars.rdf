@@ -193,4 +193,11 @@
     <starwars:Height>2.80 meters</starwars:Height>
     <starwars:Affiliation>Alliance to Restore the Republic</starwars:Affiliation>
   </rdf:Description>
+
+  <rdf:Description rdf:about="1019_BBY">
+    <starwars:Image rdf:resource=""/>
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/1019_BBY"/>
+    <starwars:Name>1019 BBY</starwars:Name>
+    <starwars:Events>The Yavin Code is established at the Yavin Convention</starwars:Events>
+  </rdf:Description>
 </rdf:RDF>
