@@ -217,3 +217,18 @@ starwars:Events			a	rdf:Property ;
 	rdfs:comment			"イベントを表すプロパティ" ;
 	rdfs:label				"イベント"@ja ;
 	rdfs:label				"Events"@en .
+
+starwars:Commanding_Officer		a	rdf:Property ;
+	rdfs:comment			"司令官を表すプロパティ" ;
+	rdfs:label				"司令官"@ja ;
+	rdfs:label				"Commanding officer"@en .
+
+starwars:Flagship		a	rdf:Property ;
+	rdfs:comment			"旗艦を表すプロパティ" ;
+	rdfs:label				"旗艦"@ja ;
+	rdfs:label				"Flagship"@en .
+
+starwars:Notable_Battles	a	rdf:Property ;
+	rdfs:comment			"注目すべき戦いを表すプロパティ" ;
+	rdfs:label				"注目すべき戦い"@ja ;
+	rdfs:label				"Notable battles"@en .
