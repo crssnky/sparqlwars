@@ -200,4 +200,32 @@
     <starwars:Name>1019 BBY</starwars:Name>
     <starwars:Events>The Yavin Code is established at the Yavin Convention</starwars:Events>
   </rdf:Description>
+
+  <rdf:Description rdf:about="102_BBY">
+    <starwars:Image rdf:resource="https://vignette2.wikia.nocookie.net/starwars/images/c/c5/Dooku_CIS.png/revision/latest"/>
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/102_BBY"/>
+    <starwars:Name>102 BBY</starwars:Name>
+    <starwars:Events>Dooku is born.</starwars:Events>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="1032_BBY">
+    <starwars:Image rdf:resource="https://vignette4.wikia.nocookie.net/starwars/images/d/de/Republic_Emblem.svg/revision/latest"/>
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/1032_BBY"/>
+    <starwars:Name>1032 BBY</starwars:Name>
+    <starwars:Conflicts>Jedi-Sith war</starwars:Conflicts>
+    <starwars:Events>The Jedi Order defeats the Sith, bringing an end to the Jedi-Sith war but spawning the Rule of Two</starwars:Events>
+    <starwars:Events>Old Republic resettles its capital on Coruscant, reinventing itself as the Galactic Republic</starwars:Events>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="103rd_Task_Force">
+    <starwars:Image rdf:resource=""/>
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/103rd_Task_Force"/>
+    <starwars:Name>103rd Task Force</starwars:Name>
+    <starwars:Commanding_Officer>Admiral Durril</starwars:Commanding_Officer>
+    <starwars:Flagship>Judicator</starwars:Flagship>
+    <starwars:Notable_Battles>Battle of Batonn</starwars:Notable_Battles>
+    <starwars:Affiliation>Galactic Empire</starwars:Affiliation>
+    <starwars:Affiliation>Imperial Military</starwars:Affiliation>
+    <starwars:Affiliation>Imperial Navy</starwars:Affiliation>
+  </rdf:Description>
 </rdf:RDF>
