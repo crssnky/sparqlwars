@@ -232,3 +232,13 @@ starwars:Notable_Battles	a	rdf:Property ;
 	rdfs:comment			"注目すべき戦いを表すプロパティ" ;
 	rdfs:label				"注目すべき戦い"@ja ;
 	rdfs:label				"Notable battles"@en .
+
+starwars:Location		a	rdf:Property ;
+	rdfs:comment			"場所を表すプロパティ" ;
+	rdfs:label				"場所"@ja ;
+	rdfs:label				"Location"@en .
+
+starwars:Military_Unit_Type		a	rdf:Property ;
+	rdfs:comment			"部隊タイプを表すプロパティ" ;
+	rdfs:label				"部隊タイプ"@ja ;
+	rdfs:label				"Military unit type"@en .
