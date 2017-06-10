@@ -228,4 +228,27 @@
     <starwars:Affiliation>Imperial Military</starwars:Affiliation>
     <starwars:Affiliation>Imperial Navy</starwars:Affiliation>
   </rdf:Description>
+
+  <rdf:Description rdf:about="1044_Chapel">
+    <starwars:Image rdf:resource=""/>
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/1044_Chapel"/>
+    <starwars:Name>1044 Chapel</starwars:Name>
+    <starwars:Location>Industrial quarter, Capital City, Lothal</starwars:Location>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="104th_Battalion">
+    <starwars:Image rdf:resource="https://vignette2.wikia.nocookie.net/starwars/images/3/3f/CometInTheSand-TLO.png/revision/latest"/>
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/104th_Battalion"/>
+    <starwars:Name>104th Battalion</starwars:Name>
+    <starwars:Military_Unit_Type>Battalion</starwars:Military_Unit_Type>
+    <starwars:Commanding_Officer>Jedi General Plo Koon</starwars:Commanding_Officer>
+    <starwars:Commanding_Officer>Clone Commander CC-3636</starwars:Commanding_Officer>
+    <starwars:Members>"Boost"</starwars:Members>
+    <starwars:Members>"Comet"</starwars:Members>
+    <starwars:Members>"Sinker"</starwars:Members>
+    <starwars:Members>"Warthog"</starwars:Members>
+    <starwars:Affiliation>Galactic Republic</starwars:Affiliation>
+    <starwars:Affiliation>Republic military</starwars:Affiliation>
+    <starwars:Affiliation>Grand Army of the Republic</starwars:Affiliation>
+  </rdf:Description>
 </rdf:RDF>
