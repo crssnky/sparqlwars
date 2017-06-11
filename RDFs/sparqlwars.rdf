@@ -251,4 +251,29 @@
     <starwars:Affiliation>Republic military</starwars:Affiliation>
     <starwars:Affiliation>Grand Army of the Republic</starwars:Affiliation>
   </rdf:Description>
+
+  <rdf:Description rdf:about="10_ABY">
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/10_ABY/Canon"/>
+    <starwars:Name>10 ABY</starwars:Name>
+    <starwars:Events>Shara Bey dies of unknown causes</starwars:Events>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="10_BBY">
+    <starwars:Image rdf:resource="https://vignette2.wikia.nocookie.net/starwars/images/4/49/Star_Wars_20_textless_cover.png/revision/latest"/>
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/10_BBY"/>
+    <starwars:Name>10 BBY</starwars:Name>
+    <starwars:Conflicts>Campaigns of Saw Gerrera's Partisans</starwars:Conflicts>
+    <starwars:Conflicts>Jedi Purge</starwars:Conflicts>
+    <starwars:Conflicts>Ryloth Insurgency</starwars:Conflicts>
+    <starwars:Emperor>Darth Sidious</starwars:Emperor>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="11-4D">
+    <starwars:Wookieepedia rdf:resource="http://starwars.wikia.com/wiki/11-4D"/>
+    <starwars:Name>11-4D</starwars:Name>
+    <starwars:Model>Protocol droid</starwars:Model>
+    <starwars:Equipment>Multiple appendages</starwars:Equipment>
+    <starwars:Affiliation>Sith</starwars:Affiliation>
+    <starwars:Affiliation>Galactic Empire</starwars:Affiliation>
+  </rdf:Description>
 </rdf:RDF>
